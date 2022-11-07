@@ -18,7 +18,8 @@
   * [آموزشی](#آموزشی)
   * [ادیتور](#ادیتور)
   * [سایر](#سایر)
-
+## دلفی پاسکال Delphi Pascal
+* [کلاس آموزش دلفی رایگان](https://www.aparat.com/amookar)
 ## پایتون Python
 
 * [PlainTasks - پلاگین todo-list برای ویرایشگر sublime](https://github.com/aziz/PlainTasks)
